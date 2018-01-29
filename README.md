@@ -13,6 +13,8 @@ adb logcat *:E>>C:\Users\EminemRen\Desktop\erro.txt
  
  
 adb shell
+
+
 logcat|grep com.libratone
 
 
