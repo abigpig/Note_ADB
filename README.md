@@ -5,9 +5,13 @@
 --ADB (Androi Debug Bridge)--
  
  Log 日志
+ 
 adb logcat >C:\Users\EminemRen\Desktop\erro.txt
+
+
 adb logcat *:E>>C:\Users\EminemRen\Desktop\erro.txt
  
+ 
 adb shell
 logcat|grep com.libratone
 
